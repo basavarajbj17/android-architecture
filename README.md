@@ -33,3 +33,7 @@ Contains the functionality to retrieve data from ws, save it locally(in db). Als
 <b>dataprovider</b> - all the interfaces and implementations of classes to access data in db. Every entity has it’s own data provider.
 
 <b>dataprovider/model</b> - model of the data stored in database. This module also will be used by app layer.
+
+<h3><b>Codestyle details are here:</h3></b>
+http://source.android.com/source/code-style.html
+
